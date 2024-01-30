@@ -47,6 +47,15 @@ https://github.com/pnguyen412
 
 Website Resources:
 
+https://expressjs.com/en/guide/routing.html#route-paths
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+https://expressjs.com/en/api.html#req.body
+
+https://expressjs.com/en/guide/routing.html#express-router
+
+https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
 
 
 License
