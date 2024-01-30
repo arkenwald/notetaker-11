@@ -5,9 +5,8 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-This back end for an e-commerce site was created by modifying starter code given to us.
+This note taking app was created by modifying starter code given to us.
 
-Express.js API and Sequelize was used to interact with a MySQL database.
 
 Installation
 
@@ -15,29 +14,30 @@ To install the project:
 
 npm i
 
-mysql source schema.sql
-
-npm run seed
-
 npm start
 
 Usage
 
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-
-THEN the data for each of these routes is displayed in a formatted JSON
-
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-
-THEN I am able to successfully create, update, and delete data in my database
+WHEN I open the Note Taker
+THEN I am presented with a landing page with a link to a notes page
+WHEN I click on the link to the notes page
+THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+WHEN I enter a new note title and the note’s text
+THEN a "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page
+WHEN I click on the Save button
+THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes and the buttons in the navigation disappear
+WHEN I click on an existing note in the list in the left-hand column
+THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
+WHEN I click on the "New Note" button in the navigation at the top of the page
+THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 GitHub Repository:
 
-https://github.com/arkenwald/ORM-E-Commerce-Back-End
+https://github.com/arkenwald/notetaker-11
 
-Video Walkthrough:
+Live URL:
 
-https://drive.google.com/file/d/1ptA0LpeVrfBAq-DGmXkPAiK6RuCcYHFr/view
+
 
 Credits
 
@@ -47,13 +47,7 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://www.npmjs.com/package/dotenv
 
-https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
-
-https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
-
-https://sequelize.org/docs/v6/core-concepts/assocs/
 
 License
 
