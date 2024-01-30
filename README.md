@@ -35,9 +35,9 @@ GitHub Repository:
 
 https://github.com/arkenwald/notetaker-11
 
-Live URL:
+Deployed App URL (Heroku):
 
-
+https://note-taker-challenge11-6171f27fd587.herokuapp.com/
 
 Credits
 
