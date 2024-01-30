@@ -42,6 +42,15 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
+Screenshots:
+
+![landingpage](https://github.com/arkenwald/notetaker-11/assets/149994852/1eeb8f59-377a-475a-8033-819729bc9f2e)
+
+![note1](https://github.com/arkenwald/notetaker-11/assets/149994852/af0f1c0b-bceb-49aa-8418-7c60c30b95fa)
+
+![note2](https://github.com/arkenwald/notetaker-11/assets/149994852/85faee61-33e3-41f9-b431-b0dc957b942c)
+
+
 GitHub Repository:
 
 https://github.com/arkenwald/notetaker-11
